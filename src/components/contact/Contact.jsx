@@ -31,11 +31,11 @@ function Contact() {
             <div className="c-info">
               <div className="c-info-item">
                 <img src="https://i.ibb.co/pR1B2bP/phone.png" alt="" className="c-icon" />
-                +234 9156 2187 46
+                +234 8166 4606 49
               </div>
               <div className="c-info-item">
                 <img className="c-icon" src="https://i.ibb.co/Tc6tZZZ/email.png" alt="" />
-                contact@big_Ferd
+                tobeferdinard@gmail.com
               </div>
               <div className="c-info-item">
                 <img className="c-icon" src="https://i.ibb.co/cX6TgFS/address.png" alt="" />
