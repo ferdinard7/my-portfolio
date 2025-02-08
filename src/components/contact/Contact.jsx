@@ -13,7 +13,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_gpi0948', 'template_5c1ubf4', formRef.current, 'HcpNaxQCBSw3cQI9c')
+    emailjs.sendForm('service_yk3zp5b', 'template_5c1ubf4', formRef.current, '8OtLPJ1AYMbphb9Kb')
     .then((result) => {
         console.log(result.text);
         setDone(true);
@@ -30,15 +30,15 @@ function Contact() {
             <h1 className="c-title">Let's discuss your project</h1>
             <div className="c-info">
               <div className="c-info-item">
-                <img src="https://i.ibb.co/pR1B2bP/phone.png" alt="" className="c-icon" />
+                <img src="./img/phone.png" alt="" className="c-icon" />
                 +234 8166 4606 49
               </div>
               <div className="c-info-item">
-                <img className="c-icon" src="https://i.ibb.co/Tc6tZZZ/email.png" alt="" />
+                <img className="c-icon" src="./img/email.png" alt="" />
                 tobeferdinard@gmail.com
               </div>
               <div className="c-info-item">
-                <img className="c-icon" src="https://i.ibb.co/cX6TgFS/address.png" alt="" />
+                <img className="c-icon" src="./img/address.png" alt="" />
                 Benin City, Edo state, Nigeria
               </div>
             </div>

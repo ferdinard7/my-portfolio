@@ -10,8 +10,8 @@ function Toggle() {
   };
   return (
     <div className="t">
-      <img src="https://i.ibb.co/ZLM6pH4/sun.png" alt="" className="t-icon" />
-      <img src="https://i.ibb.co/tzpd84g/moon.png" alt="" className="t-icon" />
+      <img src='./img/sun.png' alt="" className="t-icon" />
+      <img src="./img/moon.png" alt="" className="t-icon" />
       <div
         className="t-button"
         onClick={handleClick}
