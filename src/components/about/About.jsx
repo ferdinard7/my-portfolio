@@ -24,7 +24,7 @@ function About() {
           <p className="a-desc">
           Meet Big Ferd, a seasoned full-stack web developer with an impressive track record spanning over two years. His diverse skill set encompasses HTML, CSS, JavaScript, ReactJS, Node.js, and Next.js. Fluent in the language of Git, Big Ferd's hands-on experience in the field is a testament to his commitment to excellence.
 
-With a touch of Big Ferd's expertise, your projects are destined for greatness. Imagine your ideas transforming into captivating digital realities through skillful code. Don't hesitate—take the first step toward turning your vision into a stunning online presence. Connect with us today and let's embark on this coding journey together 
+With a touch of Big Ferd's expertise, your projects are destined for greatness.  
           </p>
           {/* <div className="a-award">
             <img src="/images/award.png" alt="" className="a-award-img" />

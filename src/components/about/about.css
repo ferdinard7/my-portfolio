@@ -2,6 +2,7 @@
     height: 100vh;
     display: flex;
     align-items: center;
+    /* margin-bottom: 13%; */
   }
   
   .a-left {
@@ -79,10 +80,12 @@
         flex-direction: column;
         text-align: center;
         margin-top: 50px;
+        margin-bottom: 38%;
       }
   
       .a-left {
         width: 100%;
+        /* margin-bottom: 10%; */
       }
   
       .a-card {
