@@ -81,7 +81,7 @@ function Intro() {
         </div>
         <div className="i-right">
           <div className="i-bg"></div>
-          <img src="./img/me.png" alt="" className="i-img" />
+          <img src="./img/new-me.png" alt="" className="i-img" />
         </div>
       </div>
     )
