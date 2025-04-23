@@ -31,7 +31,7 @@ function Contact() {
             <div className="c-info">
               <div className="c-info-item">
                 <img src="./img/phone.png" alt="" className="c-icon" />
-                +234 8166 4606 49
+                +234 8166 4606 49 / +234 9156 2187 46
               </div>
               <div className="c-info-item">
                 <img className="c-icon" src="./img/email.png" alt="" />

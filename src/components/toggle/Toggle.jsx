@@ -13,10 +13,14 @@ function Toggle() {
       <img src='./img/sun.png' alt="" className="t-icon" />
       <img src="./img/moon.png" alt="" className="t-icon" />
       <div
-        className="t-button"
-        onClick={handleClick}
-        style={{ left: theme.state.darkMode ? 0 : 25 }}
-      ></div>
+      className="t-button"
+      onClick={handleClick}
+      onKeyDown={(e) => e.key === 'Enter' && handleClick()}
+      role="button"
+      tabIndex={0}
+      aria-label="Toggle dark mode"
+      style={{ left: theme.state.darkMode ? 0 : 25 }}
+      />
     </div>
   );
 }

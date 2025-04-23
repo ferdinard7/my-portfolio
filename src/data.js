@@ -1,9 +1,9 @@
 export const products = [
-    // {
-    //   id: 1,
-    //   img: "./img/",
-    // //   link: "http://lama.dev",
-    // },
+    {
+      id: 1,
+      img: "./img/irokotech-screen.jpeg",
+    //   link: "http://lama.dev",
+    },
     {
       id: 2,
       img: "./img/nadia.png",
@@ -24,5 +24,9 @@ export const products = [
     {
       id: 6,
       img: "./img/social.png",
+    },
+    {
+      id: 7,
+      img: "./img/laubracotech-screen.jpeg",
     },
   ];
